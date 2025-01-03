@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LightingTesting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36aceec0b5bfb448223d823a9986e6e5c6c0f915")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abc7e1b52fe1bb7237a9e639f4774751ef13946c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LightingTesting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LightingTesting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
